@@ -1,3 +1,11 @@
+# 2020-10-19
+
+progate javascript 全てのコース終了
+progate jQuery 中級コース修了
+
+やりたいこと
+PF に Rspec 実装
+
 # 2020-10-15
 
 ## できたこと・実績
